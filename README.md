@@ -19,3 +19,7 @@ there is 4 option in this program.
 
 
 here is some screen shot of output:-
+
+<img width="887" height="550" alt="Screenshot 2026-11-01 175256" src="https://github.com/user-attachments/assets/c337d781-aebb-4e66-a122-0afca5a9db8f" />
+
+<img width="886" height="565" alt="Screenshot 2026-11-01 175321" src="https://github.com/user-attachments/assets/45780568-4883-4f9c-97af-2196963392f8" />
